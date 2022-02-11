@@ -4,7 +4,7 @@ import { Router } from '@angular/router';
 import { Repository } from '../repository';
 import { User } from '../user';
 import { UserRequestService } from '../user-http/user-request.service';
-import { UserService } from '../user-service/user.service';
+import { UserService } from '../user-service/user-service';
 
 @Component({
   selector: 'app-home',
