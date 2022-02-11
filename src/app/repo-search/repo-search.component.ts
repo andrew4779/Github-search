@@ -1,18 +1,4 @@
-// import { Component, OnInit } from '@angular/core';
 
-// @Component({
-//   selector: 'app-repo-search',
-//   templateUrl: './repo-search.component.html',
-//   styleUrls: ['./repo-search.component.css']
-// })
-// export class RepoSearchComponent implements OnInit {
-
-//   constructor() { }
-
-//   ngOnInit(): void {
-//   }
-
-// }
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { Repository } from '../repository';
